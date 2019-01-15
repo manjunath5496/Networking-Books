@@ -1,8 +1,6 @@
  <ul>
                                     
-									
-									
-									<li><b><a target="_blank" href="img/n1.pdf" style="text-decoration:none;">Computer Networking: A Top-Down Approach By Jim Kurose</a></b></li>
+<li><b><a target="_blank" href="img/n1.pdf" style="text-decoration:none;">Computer Networking: A Top-Down Approach By Jim Kurose</a></b></li>
                                     <li><b><a target="_blank" href="img/n2.pdf" style="text-decoration:none;">Internetworking With TCP/IP By Douglas Comer</a></b></li>
                                     <li><b><a target="_blank" href="img/n3.pdf" style="text-decoration:none;">CCENT/CCNA ICND1 100-105 Official Cert Guide By Wendell Odom </a></b></li>
                                     <li><b><a target="_blank" href="img/n4.pdf" style="text-decoration:none;">Computer Networks By Andrew S. Tanenbaum</a></b></li>
@@ -31,8 +29,4 @@
                                     <li><b><a target="_blank" href="img/n27.pdf" style="text-decoration:none;">Introduction to Networking: How the Internet Works By Charles Severance </a></b></li>
                                     <li><b><a target="_blank" href="img/n28.pdf" style="text-decoration:none;">Cryptography and Network Security By William Stallings </a></b></li>
                                 
-								
-								
-								
-								
-								</ul>
+</ul>
